@@ -1,0 +1,7 @@
+## UI --> action -->
+      |            |
+      |            |
+##    |          Reducer
+      |            |
+      |            |
+##    |<------Subscriber
