@@ -1,7 +1,8 @@
-## UI --> action -->
+## Rough Sketch
+     UI --> action -->
       |            |
       |            |
-##    |          Reducer
+      |          Reducer
       |            |
       |            |
-##    |<------Subscriber
+     |<------Subscriber
